@@ -1,0 +1,6 @@
+---
+title: "Vulnerable System Analysis"
+date: 2024-06-06
+project-url: https://docs.google.com/document/d/1M1TQ2-QgQwzfXP16fpgPl50isMwORyy-eSi1n3azTN0/edit?usp=sharing
+description: "This project involved conducting a vulnerability assessment on a publicly accessible database server for an e-commerce company. I analyzed the risks, identified threat sources, and provided security recommendations aligned with NIST SP 800-30 to help secure the system and protect business operations."
+---
