@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Introduction to Log Analysis – TryHackMe Journal"
+date: 2025-06-17
+---
+
+This journal entry summarizes my completion of the **Introduction to Log Analysis** module on TryHackMe.
+
+### Key Topics Covered:
+- Understanding different types of logs (system, application, security)  
+- Collecting and parsing log data  
+- Identifying indicators of compromise through logs  
+- Using tools like Splunk for log analysis  
+
+### Skills Developed:
+- Reading and interpreting logs for incident detection  
+- Applying filtering and search techniques in log analysis tools  
+- Understanding how logs support cybersecurity investigations  
+
+### Link to Detailed Journal PDF:  
+🔗 [Intro to Log Analysis – Full Journal Entry (PDF)](../assets/Intro_Log_Analysis_Ria_Toby.pdf)  
+
+---
+
+Log analysis is critical for detecting and responding to security events effectively.
