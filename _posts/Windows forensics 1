@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Windows Forensics 1 – TryHackMe Journal"
+date: 2025-06-17
+---
+
+This journal entry summarizes my completion of **Windows Forensics Part 1** on TryHackMe.
+
+### Key Topics Covered:
+- Collecting forensic artifacts from Windows systems  
+- Understanding event logs and timeline analysis  
+- Investigating user activity and system changes  
+- Basics of file and memory forensics  
+
+### Skills Developed:
+- Performing initial forensic data collection  
+- Analyzing event logs for security incidents  
+- Understanding forensic methodology on Windows  
+
+### Link to Detailed Journal PDF:  
+🔗 [Windows Forensics 1 – Full Journal Entry (PDF)](../assets/Windows_Forensics_1_Ria_Toby.pdf)  
+
+---
+
+This module introduced fundamental techniques for investigating Windows security incidents.
