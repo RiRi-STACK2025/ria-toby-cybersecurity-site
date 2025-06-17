@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Wireshark Basics - TryHackMe Journal"
+date: 2025-06-17
+---
+
+This entry covers my completion of the **Wireshark Basics** module on TryHackMe.  
+🔗 [View the full journal entry here](../assets/TryHackMe-Wireshark-Journal-Ria-Toby.pdf)
+
+_Key topics covered included:_
+- Network packet structure
+- Protocol analysis
+- Capture filters and display filters
+- Real-time traffic inspection
