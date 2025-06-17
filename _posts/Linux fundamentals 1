@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Linux Fundamentals 1 – TryHackMe Journal"
+date: 2025-06-17
+---
+
+This journal entry summarizes my completion of **Linux Fundamentals Part 1** on TryHackMe.
+
+### Key Topics Covered:
+- Introduction to the Linux operating system  
+- Navigating the Linux file system using commands like `ls`, `cd`, `pwd`  
+- File and directory management (`mkdir`, `touch`, `rm`, `cp`, `mv`)  
+- Viewing file contents (`cat`, `less`, `head`, `tail`)  
+- Understanding file permissions and ownership  
+- Using command-line shortcuts and help commands (`man`, `--help`)  
+
+### Skills Developed:
+- Proficient in basic Linux CLI navigation  
+- Confident managing files and directories from the terminal  
+- Understanding Linux permissions and their implications on security  
+
+### Link to Detailed Journal PDF:  
+🔗 [Linux Fundamentals 1 – Full Journal Entry (PDF)](../assets/Linux_Fundamentals_1_Ria_Toby.pdf)  
+
+---
+
+I found this module critical in building a solid foundation in Linux, which is essential for cybersecurity operations and system administration.
