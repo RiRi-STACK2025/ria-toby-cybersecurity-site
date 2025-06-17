@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Windows Forensics 2 – TryHackMe Journal"
+date: 2025-06-17
+---
+
+This journal entry summarizes my completion of **Windows Forensics Part 2** on TryHackMe.
+
+### Key Topics Covered:
+- Advanced analysis of Windows artifacts  
+- Extracting and analyzing registry hives  
+- Investigating malware persistence techniques  
+- File system and timeline forensics  
+
+### Skills Developed:
+- Deepening forensic analysis skills on Windows  
+- Ability to identify persistence mechanisms  
+- Enhanced understanding of Windows internals for security  
+
+### Link to Detailed Journal PDF:  
+🔗 [Windows Forensics 2 – Full Journal Entry (PDF)](../assets/Windows_Forensics_2_Ria_Toby.pdf)  
+
+---
+
+Building on the first part, this module expanded my ability to conduct detailed forensic investigations.
