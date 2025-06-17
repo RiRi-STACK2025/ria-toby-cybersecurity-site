@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Linux Fundamentals 3 – TryHackMe Journal"
+date: 2025-06-17
+---
+
+This journal entry summarizes my completion of **Linux Fundamentals Part 3** on TryHackMe.
+
+### Key Topics Covered:
+- Managing users and groups (`useradd`, `usermod`, `groupadd`, `passwd`)  
+- File permissions in depth (read, write, execute for owner, group, others)  
+- Changing permissions with `chmod` and ownership with `chown`  
+- Introduction to symbolic links (`ln -s`)  
+- Understanding and using environment variables  
+- Process management basics (`ps`, `top`, `kill`)  
+
+### Skills Developed:
+- Confidently manage Linux user accounts and groups  
+- Apply and troubleshoot file permissions for security  
+- Utilize environment variables effectively in the shell  
+- Monitor and control running processes  
+
+### Link to Detailed Journal PDF:  
+🔗 [Linux Fundamentals 3 – Full Journal Entry (PDF)](../assets/Linux_Fundamentals_3_Ria_Toby.pdf)  
+
+---
+
+This module strengthened my understanding of Linux system administration fundamentals crucial for cybersecurity and system management.
